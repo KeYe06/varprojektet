@@ -18,4 +18,8 @@ Jag arbetade med att göra loggan till vår hemsida. I styleguiden hade vi skriv
 
 #### Vecka 13
 
+Vi fortsatte att arbeta med undersidorna. Många problem uppstod främst med att försöka få Bootstrap att fungera som man ville, dock slog vi igenom med vår hacker-mentality. Jag lyckades arbeta vidare med customer support sidan och den börjar ta form nu. Julian arbetade med att göra headern som skulle finnas på alla undersidor. Han blev klar med den och vi kopierade in den i våra undersidor. Vi pratade och bestämde att ändra köpsidan lite. Vi tyckte att det var dåligt att trycka in för många Call to actions på en sida och bestämde att gömma de andra Call to actions längre ner på sidan så man inte ser alla samtidigt. Annars så gick det ganska bra
+
+#### Vecka 13
+
 Gruppen började med att arbeta på att bygga själva sidan genom CSS och HTML. Sam startade med hemsidan. Jag gjorde customer support sidan och Julian startade med köpsidan. Julian fixade också Bootstrap för oss och vi pratade lite om själva wireframen av sidorna medan vi arbetade med dem. Vi kom till slutsatsen att det vore nog bättre att ta bort sidebaren på hemsidan eftersom vi inte hade något att lägga där. Om vi hade en större sida med fler undersidor så skulle en sidebar vara bra men vår websida kommer inte vara så stor. Thea var inte här. Sista delen gick åt att lära om Bootstrap och hur man använder det. 
