@@ -27,3 +27,7 @@ Gruppen började med att arbeta på att bygga själva sidan genom CSS och HTML. 
 #### Vecka 18
 
 Gruppen fortsatte med att skapa undersidorna. Jag var klar med min så jag började att arbeta på de andra sakerna som vi behövde. Jag la in ett kommentarfält och fixade analysverktyg för sidan. Vi la alla filer in i Github och startade en Github pages sida som la upp vår webbsida på nätet. Jag fixade repository. Thea var inte här, alla var närvarande. Mycket problem och strul förekom bland annat pga ändringar i Github uppdaterar inte på sidan och några andra strul med att hitta ett bra analysverktyg. Jag använde Commento för kommentarsfältet och Matomo för analysverktyget.
+
+#### Vecka 19
+
+Fortsatt arbete på undersidorna. Jag hjälpte Sam med huvudsidan. Lite finslip med compatibility och sånt. 
